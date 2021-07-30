@@ -95,7 +95,9 @@ header {
   margin-top: 5%;
 }
 .footer-class img {
-  width: 50%;
+  /* width: 50%; */
+  width: 457px;
+  height: 125px;
 }
 .icons {
   background: #e7e7e8;
